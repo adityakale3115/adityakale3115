@@ -7,10 +7,10 @@
   <a href="https://github.com/adityakale3115">
     <img src="https://komarev.com/ghpvc/?username=adityakale3115&style=flat-square&color=blue" alt="Profile views" />
   </a>
-  <a href="https://linkedin.com/in/adityakale3115">
+  <a href="https://www.linkedin.com/in/aditya-kale-750511285/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya_Kale-blue?logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aditya.kale0405@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-red?logo=gmail" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 - 🌐 [**E-Summit VEDC Platform**](https://github.com/Prajwal-weladi/Esummit) – *Contributor*  
   Event registration and admin dashboard for E-Summit at VIT Pune (React)
 
-- 📊 [**Quantifai ETL Dashboard**](https://github.com/adityakale3115/Quantifai-Assignment)  
+- 📊 [**ETL Dashboard**](https://github.com/adityakale3115/End-to-End-ETL-Pipeline-with-Streamlit)  
   Data Engineering pipeline with SQLite + Streamlit for internship task
 
 ---
@@ -64,9 +64,8 @@
 ### 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/adityakale3115](https://linkedin.com/in/adityakale3115)
-- Email: your.email@example.com  
-- Portfolio: *(Add if you have one)*
-
+- Email: aditya.kale0405@gmail.com
+  
 ---
 
 _“Code. Learn. Build. Repeat.”_
