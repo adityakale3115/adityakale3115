@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Aditya Kale 👋</h1>
-<p align="center">
-  Final-year student | Full Stack Developer | ML Enthusiast | Tech Builder
-</p>
+<!-- Typing animation intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Aditya+Kale+%F0%9F%91%8B;Pre+Final+Year+Student+%7C+Full+Stack+Dev;ML+Enthusiast+%7C+Tech+Builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/adityakale3115">
@@ -17,55 +17,55 @@
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-- 🔭 Currently building: **Printzy (Document Printing App)**  
-- 🧠 Learning: **React Native, Firebase, and Cloud Integration**
-- 🤝 Open to collaboration on impactful web/mobile projects
-- 🛠️ Skilled in: React, Node.js, PHP, Firebase, MySQL, Python
-- 🎓 Studying at: **VIT Pune**
-
----
-
-### 🛠️ Projects
-
-- 🔧 [**Kenn India Inventory Management**](https://github.com/adityakale3115/kenn-india-inventory-management)  
-  Inventory system for product, stock, and user management in PHP + MySQL
-
-- 🌐 [**E-Summit VEDC Platform**](https://github.com/Prajwal-weladi/Esummit) – *Contributor*  
-  Event registration and admin dashboard for E-Summit at VIT Pune (React)
-
-- 📊 [**ETL Dashboard**](https://github.com/adityakale3115/End-to-End-ETL-Pipeline-with-Streamlit)  
-  Data Engineering pipeline with SQLite + Streamlit for internship task
+- 🔭 Currently building: **Printzy – Smart Document Printing App**
+- 🧠 Learning: **React Native**, **Firebase**, **Cloud Integrations**
+- 🤝 Collaborating on: Full-stack web & mobile apps
+- 🛠️ Core Skills: `React`, `Node.js`, `PHP`, `MySQL`, `Firebase`, `Python`
+- 🎓 Final-year undergrad at **VIT Pune**
 
 ---
 
-### 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-
----
-
-### 📈 GitHub Stats
+## 🧠 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityakale3115&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=adityakale3115&theme=default" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,python,firebase,cpp,js,html,css" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Projects
 
-- LinkedIn: [linkedin.com/in/adityakale3115](https://linkedin.com/in/adityakale3115)
-- Email: aditya.kale0405@gmail.com
-  
+- [**Kenn India Inventory System**](https://github.com/adityakale3115/kenn-india-inventory-management): Product, stock & supplier management (PHP + MySQL)
+- [**E-Summit VEDC Platform**](https://github.com/Prajwal-weladi/Esummit) – *Contributor*: Event portal for VIT Pune’s E-Summit (React)
+- [**ETL Dashboard**](https://github.com/adityakale3115/End-to-End-ETL-Pipeline-with-Streamlit): SQLite-based data pipeline + Streamlit dashboard
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityakale3115&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=adityakale3115&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakale3115&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📩 **Email**: [aditya.kale0405@gmail.com](mailto:aditya.kale0405@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/adityakale3115](https://www.linkedin.com/in/aditya-kale-750511285/)
+
 ---
 
 _“Code. Learn. Build. Repeat.”_
+
