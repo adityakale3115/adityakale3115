@@ -23,7 +23,7 @@
 - 🧠 Learning: **React Native**, **Firebase**, **Cloud Integrations**
 - 🤝 Collaborating on: Full-stack web & mobile apps
 - 🛠️ Core Skills: `React`, `Node.js`, `PHP`, `MySQL`, `Firebase`, `Python`
-- 🎓 Final-year undergrad at **VIT Pune**
+- 🎓 Pre-Final-year undergrad at **VIT Pune**
 
 ---
 
